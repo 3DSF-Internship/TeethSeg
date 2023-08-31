@@ -8,7 +8,7 @@ Welcome to TeethSeg Web App!
 
 Watch our demo of TeethSeg web App
 
-[![video_demo](assets/app_secreen.png)](assets/video_demo.mp4)
+[![video_demo](assets/app_secreen.png)](https://www.youtube.com/watch?v=zOI1ZxMHlhk)
 
 
 ## Frontend 
