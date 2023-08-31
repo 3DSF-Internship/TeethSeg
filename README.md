@@ -2,7 +2,7 @@
 
 Welcome to TeethSeg Web App! 
 
-![app_image](app_secreen.png)
+![app_image](assets/app_secreen.png)
 
 ## Demo
 
