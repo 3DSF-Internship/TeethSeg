@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import { toast } from "react-hot-toast";
+import { Toaster, toast } from "react-hot-toast";
 
 import { Bot, Crop, FileAxis3d, Microscope, UploadCloud } from "lucide-react";
 import { AiOutlineArrowLeft } from "react-icons/ai";
@@ -739,6 +739,10 @@ function VTKViewer() {
 			) : (
 				""
 			)}
+			<Toaster
+  				position="top-center"
+  				reverseOrder={false}
+			/>
 		</>
 	);
 }
