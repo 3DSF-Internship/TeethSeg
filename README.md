@@ -18,5 +18,5 @@ You'll find source code of our backend in `Backend Branch`
 
 ## aws_lambda
 
-If you want to deploy the TeethSeg App using AWS, please ensure you use the aws_lambda branch.
+If you want to deploy the TeethSeg App using AWS, please ensure you use the `aws_lambda` branch.
 
