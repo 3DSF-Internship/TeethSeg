@@ -6,7 +6,7 @@ Welcome to TeethSeg Web App!
 
 ## Demo
 
-Watch our demo of TeethSeg web App [here](https://www.youtube.com/watch?v=zOI1ZxMHlhk)
+Watch our demo of TeethSeg web App [here](https://www.youtube.com/watch?v=vv0G7nkHsVo)
 
 ## Frontend 
 
